@@ -4,11 +4,11 @@
 <!--  REPLACE: rohith-a-904aa4393 → your LinkedIn slug wherever it appears    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ⑯ FOOTER WAVE -->
+<!-- ① HERO BANNER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F5DC,50:38BDF8,100:0F172A&height=120&section=footer"
-    alt="Footer Wave"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:38BDF8,100:F5F5DC&height=220&section=header&text=Rohith%20A&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20BCA%20Graduate%20%7C%20Chennai%2C%20India&descAlignY=58&descSize=18&descColor=F8FAFC&animation=fadeIn"
+    alt="Hero Banner"
   />
 </p>
 
