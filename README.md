@@ -7,7 +7,7 @@
 <!-- ① HERO BANNER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=color=0:4f5d95,50:6b7bbd,100:8ea2d8&height=220&section=header&text=Rohith%20A&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20BCA%20Graduate%20%7C%20Chennai%2C%20India&descAlignY=58&descSize=18&descColor=F8FAFC&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=color=color=0:8fb3e8,50:a8d1ff,100:cfe7ff&height=220&section=header&text=Rohith%20A&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20BCA%20Graduate%20%7C%20Chennai%2C%20India&descAlignY=58&descSize=18&descColor=F8FAFC&animation=fadeIn"
     alt="Hero Banner"
   />
 </p>
